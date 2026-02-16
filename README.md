@@ -1,3 +1,4 @@
+![Screenshot(task3)](https://github.com/user-attachments/assets/7428ec8b-1bad-489a-b39e-43679f09087f)
 A simple REST API built using Node.js and Express to perform CRUD operations on a list of books.
 This project stores data in memory (no database required).
 -----------------------------------
